@@ -3,6 +3,7 @@ const API_KEY = config.WEATHER_API_KEY;
 
 let input = document.querySelector(".zipcode");
 let btn = document.querySelector(".search-button");
+
 let form = document.querySelector("form");
 
 let CITY_NAME = document.querySelector(".city-name");
